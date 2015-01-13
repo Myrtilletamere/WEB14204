@@ -33,19 +33,27 @@ Pick 3 social networks and analyse them, using the template below.
 
 Write it in *MarkDown*, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
+### What networks should I pick?
+
+You could start with social networks that you're familiar with and use regularly.
+
+It may be a good idea to analyse social networks that are **competitors** to what you'll end up designing (competitors because of similar audience, similar content, similar actions etc.).
+
+You can also consider quirky ones like [Ello](https://ello.co/), [Diaspora](https://joindiaspora.com/) and [Ravelry](http://www.ravelry.com/about), or services that have a heavy social networking element like [AirBnB](https://www.airbnb.co.uk).
+
 ## Social networks analysis template
 
-### Competitor 1
+### Social network 1
 
-eg: [InstaBook](http://instabook.com)
+eg: [InstaBook](http://instabook.com), a social network for people sharing what they're currently reading?
 
-### Competitor 2
+### Social network 2
 
-eg: [BorrowMyCamel](http://borrowmycamel.com)
+eg: [BorrowMyDinosaur](http://borrowmydinosaur.com), where people can lend their pet dinosaur to other members?
 
-### Competitor 3
+### Social network 3
 
-eg: [myFace](http://myface.com)
+eg: [myFace](http://myface.com), where people post selfies every morning?
 
 
 ### Audience(s)
@@ -58,6 +66,8 @@ What kind of relationships (aka *ties*) can users (aka *nodes*) establish in the
 
 What are the steps to connect (and disconnect)? What are these actions called (see *content definition* below)?
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/social-network-graph.png)
+
 #### Reciprocity
 
 How do people *reciprocate* the relationships they establish on these networks? For example on Facebook you have to reciprocate (ie "I am your friend and you are my friend"), on Twitter you don't ("You follow me, but I don't follow you")
@@ -69,6 +79,10 @@ To what extent do people form ties with similar versus dissimilar others? Simila
 ### Content(s)
 
 What kind of content(s) are users producing, sharing and consuming on these networks?
+
+What kind of comments do people post on these networks? As a designer, how can you *scaffold* users interactions aroud content.
+
+Why are many comments on YouTube so moronic? Why do you think people let loose so much on that social network? [Watch this video](https://www.youtube.com/watch?v=gx-WBaSNrTQ). It's funny.
 
 ### Currency
 
@@ -139,11 +153,18 @@ Whilst the social network personification characters may be rather surreal, biza
 
 Think about a specific situation, a *task* that your user character needs to get done.
 
-
 # Assignment for the next session
 
-Imagine your product is a person, the character in a short play. Write the script for it.
+Imagine your social network of choice is a person, the character in a short play (2-3 minutes). Write the script for it.
 
 This can be a spin-off of the story you came up with in class, or a completely new story.
 
 Write it in MarkDown, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
+
+You [can take a look at what last year's students came up with](https://www.dropbox.com/sh/74gwwgn735e3wyh/AADV7X2pAXL7Ns2bRpXk0QWXa?dl=0#/) (bear in mind that their project brief was different, yours is specifically about social networks)
+
+Next session we'll pick a few scripts and act them out!
+
+### From last week
+
+Also, if you haven't done / published the post from last week yet (the one about [your learning goals for this unit](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)), please push it to your fork of this project on GitHub (inside the `students > {yourName}` folder). Ideally as a MD file, because we don't like MS Word :)
