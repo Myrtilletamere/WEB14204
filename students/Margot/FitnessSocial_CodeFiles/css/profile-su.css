@@ -1,0 +1,328 @@
+.version.profile_su /* version checker */
+{
+	color: #000019;
+	background-color: #85D927;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu716
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	margin-left: 34px;
+}
+
+#u716
+{
+	z-index: 7;
+	width: 167px;
+	height: 153px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 11px rgba(34,181,115,0.74),0px 0px 11px rgba(34,181,115,0.74);
+	border-radius: 10px;
+	margin-left: 2px;
+	position: relative;
+	background: transparent url("../images/profile3.jpg") no-repeat center center;
+}
+
+#u719-4
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	margin-left: 47px;
+	position: relative;
+}
+
+#u714-4
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	margin-left: 72px;
+	position: relative;
+}
+
+#u1198-6
+{
+	z-index: 36;
+	display: block;
+	vertical-align: top;
+	margin-left: 8px;
+	position: relative;
+}
+
+#buttonu1199
+{
+	z-index: 42;
+	width: 118px;
+	-pie-box-shadow: 4px 4px 8px #7F7F7F;
+	box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
+	border-color: #787878;
+	background-color: #CACACA;
+	border-radius: 10px;
+	padding-bottom: 3px;
+	margin-left: 27px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#buttonu1199::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 10px;
+	box-shadow: inset 1px 1px 4px rgba(255,255,255,0.75), inset -1px -1px 4px rgba(0,0,0,0.75);
+}
+
+#buttonu1199:hover
+{
+	background-color: #545454;
+	width: 118px;
+	min-height: 0px;
+	margin: 9px 0px 0px 27px;
+}
+
+#buttonu1199.ButtonSelected
+{
+	background-color: #CACACA;
+	width: 118px;
+	min-height: 0px;
+	margin: 9px 0px 0px 27px;
+}
+
+#u1203-4
+{
+	z-index: 43;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 7px;
+}
+
+#u725
+{
+	z-index: 22;
+	width: 198px;
+	height: 174px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 11px rgba(34,181,115,0.74),0px 0px 11px rgba(34,181,115,0.74);
+	border-radius: 10px;
+	margin-top: 8px;
+	position: relative;
+	background: transparent url("../images/calendar.jpg") no-repeat center center;
+}
+
+#pu718-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 238px;
+}
+
+#u718-4
+{
+	z-index: 3;
+	margin-left: 92px;
+	position: relative;
+}
+
+#u718-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#pu717
+{
+	z-index: 2;
+	width: 0.01px;
+	position: relative;
+	margin-top: 54px;
+}
+
+#u717
+{
+	z-index: 0;
+	width: 671px;
+	background-color: #C2C1C1;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#ppu722
+{
+	width: 0.01px;
+	position: relative;
+	left: 36px;
+	padding-top: 22px;
+	z-index: 2;
+	padding-bottom: 66px;
+}
+
+#pu722
+{
+	z-index: 16;
+	width: 0.01px;
+	position: relative;
+	margin-left: 162px;
+}
+
+#u722
+{
+	z-index: 0;
+	width: 275px;
+	background-color: #FFFFFF;
+	opacity: 0.71;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
+	filter: alpha(opacity=71);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu721-4
+{
+	width: 0.01px;
+	position: relative;
+	z-index: 2;
+}
+
+#u721-4
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu723
+{
+	z-index: 21;
+	width: 0.01px;
+	position: relative;
+	margin-top: 40px;
+}
+
+#pu735-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 33px;
+	padding-top: 20px;
+	z-index: 2;
+	padding-bottom: 26px;
+}
+
+#u735-4
+{
+	z-index: 25;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu726
+{
+	z-index: 23;
+	width: 0.01px;
+	position: relative;
+	margin-left: 1px;
+	margin-top: 39px;
+}
+
+#u723,#u726
+{
+	z-index: 0;
+	width: 598px;
+	background-color: #FFFFFF;
+	opacity: 0.71;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
+	filter: alpha(opacity=71);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu728
+{
+	width: 0.01px;
+	position: relative;
+	left: 18px;
+	padding-top: 18px;
+	z-index: 2;
+	padding-bottom: 23px;
+}
+
+#u728
+{
+	z-index: 24;
+	width: 144px;
+	height: 142px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/post-work-out-selfie-e1402384342215.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1197-7
+{
+	z-index: 29;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 166px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

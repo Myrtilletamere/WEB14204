@@ -1,0 +1,331 @@
+.version.calendar /* version checker */
+{
+	color: #0000F3;
+	background-color: #6C7609;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ppu974
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 129px;
+	margin-left: 20px;
+}
+
+#pu974
+{
+	z-index: 7;
+	width: 0.01px;
+	position: relative;
+}
+
+#pu978-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 7px;
+	z-index: 2;
+	padding-bottom: 4px;
+}
+
+#u978-4
+{
+	z-index: 11;
+	width: 129px;
+	min-height: 13px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu979-4
+{
+	width: 0.01px;
+	margin-top: 2px;
+}
+
+#u979-4
+{
+	z-index: 15;
+	width: 129px;
+	min-height: 15px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 12px;
+}
+
+#u983
+{
+	z-index: 31;
+	width: 168px;
+	height: 28px;
+	background-color: #C2C1C1;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	border-radius: 0px 10px 10px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu975
+{
+	z-index: 8;
+	width: 0.01px;
+	position: relative;
+	margin-top: -2px;
+}
+
+#pu980-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 3px;
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u980-4
+{
+	z-index: 19;
+	width: 129px;
+	min-height: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu976
+{
+	z-index: 9;
+	width: 0.01px;
+	position: relative;
+}
+
+#pu981-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 8px;
+	z-index: 2;
+	padding-bottom: 3px;
+}
+
+#u981-4
+{
+	z-index: 23;
+	width: 129px;
+	min-height: 12px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu977
+{
+	z-index: 10;
+	width: 0.01px;
+	position: relative;
+}
+
+#u974,#u975,#u976,#u977
+{
+	z-index: 0;
+	width: 168px;
+	background-color: #C2C1C1;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	border-radius: 0px 10px 10px 0px ;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#u982-4
+{
+	z-index: 27;
+	width: 129px;
+	min-height: 18px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu973
+{
+	z-index: 6;
+	width: 0.01px;
+	position: relative;
+}
+
+#u973
+{
+	z-index: 0;
+	width: 183px;
+	background-color: #C2C1C1;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 0px 10px 10px 0px ;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu982-4,#pu984-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 5px;
+	z-index: 2;
+	padding-bottom: 5px;
+}
+
+#u984-4
+{
+	z-index: 32;
+	width: 129px;
+	min-height: 18px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#ppu972-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 206px;
+}
+
+#pu972-4
+{
+	width: 0.01px;
+	margin-left: 105px;
+}
+
+#u972-4
+{
+	z-index: 2;
+	position: relative;
+	width: 288px;
+	margin-right: -10000px;
+}
+
+#u1032-4
+{
+	z-index: 37;
+	position: relative;
+	width: 288px;
+	margin-right: -10000px;
+}
+
+#u972-4_img,#u1032-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#pu1031
+{
+	width: 0.01px;
+}
+
+#u1031
+{
+	z-index: 36;
+	width: 734px;
+	padding-bottom: 340px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	background: transparent url("../images/wobuddy.jpg") no-repeat left top;
+}
+
+#u1035
+{
+	z-index: 43;
+	width: 156px;
+	height: 15px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 465px;
+}
+
+.ie #u1035
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1033
+{
+	z-index: 41;
+	width: 221px;
+	position: relative;
+	margin-right: -10000px;
+	left: 14px;
+	background: transparent url("../images/onglets.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1034
+{
+	z-index: 42;
+	width: 104px;
+	height: 20px;
+	background-color: #9E005D;
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
+	border-radius: 10px 10px 0px 0px ;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 6px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

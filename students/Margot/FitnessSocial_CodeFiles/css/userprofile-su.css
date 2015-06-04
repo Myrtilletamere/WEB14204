@@ -1,0 +1,473 @@
+.version.userprofile_su /* version checker */
+{
+	color: #000013;
+	background-color: #8D0387;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.80000000000007px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1218-4
+{
+	z-index: 32;
+	margin-left: 311px;
+	position: relative;
+}
+
+#u1218-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#pppu1207
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 41px;
+}
+
+#ppu1207
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+}
+
+#pu1207
+{
+	z-index: 3;
+	width: 0.01px;
+	position: relative;
+}
+
+#pu1211-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 7px;
+	z-index: 2;
+	padding-bottom: 4px;
+}
+
+#u1211-4
+{
+	z-index: 7;
+	width: 129px;
+	min-height: 13px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1212-4
+{
+	width: 0.01px;
+	margin-top: 1px;
+}
+
+#u1212-4
+{
+	z-index: 11;
+	width: 129px;
+	min-height: 15px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 12px;
+}
+
+#u1216
+{
+	z-index: 27;
+	width: 168px;
+	height: 28px;
+	background-color: #C2C1C1;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	border-radius: 0px 10px 10px 0px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1208
+{
+	z-index: 4;
+	width: 0.01px;
+	position: relative;
+	margin-top: -1px;
+}
+
+#pu1213-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 3px;
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u1213-4
+{
+	z-index: 15;
+	width: 129px;
+	min-height: 19px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1209
+{
+	z-index: 5;
+	width: 0.01px;
+	position: relative;
+}
+
+#pu1214-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 8px;
+	z-index: 2;
+	padding-bottom: 3px;
+}
+
+#u1214-4
+{
+	z-index: 19;
+	width: 129px;
+	min-height: 12px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1210
+{
+	z-index: 6;
+	width: 0.01px;
+	position: relative;
+}
+
+#u1207,#u1208,#u1209,#u1210
+{
+	z-index: 0;
+	width: 168px;
+	background-color: #C2C1C1;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	border-radius: 0px 10px 10px 0px ;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#u1215-4
+{
+	z-index: 23;
+	width: 129px;
+	min-height: 18px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1227
+{
+	z-index: 37;
+	width: 137px;
+	height: 135px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 5px 6px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 272px;
+	background: transparent url("../images/yourface.jpg") no-repeat center center;
+}
+
+#ppu1228-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	margin-left: 435px;
+}
+
+#pu1228-4
+{
+	width: 0.01px;
+}
+
+#u1228-4
+{
+	z-index: 38;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1229-4
+{
+	z-index: 42;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 178px;
+}
+
+#u1230-6
+{
+	z-index: 46;
+	display: block;
+	vertical-align: top;
+	margin-top: 9px;
+	position: relative;
+}
+
+#pu1206
+{
+	z-index: 2;
+	width: 0.01px;
+	position: relative;
+	margin-left: 20px;
+	margin-top: 1px;
+}
+
+#u1206
+{
+	z-index: 0;
+	width: 183px;
+	background-color: #C2C1C1;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 0px 10px 10px 0px ;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#u1206.MuseLinkActive
+{
+	-pie-box-shadow: none;
+	box-shadow: 7px 2px 6px rgba(0,0,0,0.5);
+	width: 183px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#pu1215-4,#pu1217-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 12px;
+	padding-top: 5px;
+	z-index: 2;
+	padding-bottom: 5px;
+}
+
+#u1217-4
+{
+	z-index: 28;
+	width: 129px;
+	min-height: 18px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1220
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u1220
+{
+	z-index: 36;
+	width: 247px;
+	height: 300px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 11px rgba(34,181,115,0.74),0px 0px 11px rgba(34,181,115,0.74);
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	background: transparent url("../images/calendar2.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#pu1231
+{
+	z-index: 52;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-left: 273px;
+}
+
+#u1231
+{
+	z-index: 0;
+	width: 647px;
+	background-color: #C2C1C1;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu1232-4
+{
+	width: 0.01px;
+	padding-bottom: 65.49999999999989px;
+	position: relative;
+	left: 35px;
+	padding-top: 22px;
+	z-index: 2;
+}
+
+#u1232-4
+{
+	z-index: 53;
+	display: block;
+	vertical-align: top;
+	margin-left: 156px;
+	position: relative;
+}
+
+#pu1233
+{
+	z-index: 57;
+	width: 0.01px;
+	position: relative;
+	margin-top: 40px;
+}
+
+#pu1236-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 28px;
+	padding-top: 23px;
+	z-index: 2;
+	padding-bottom: 23px;
+}
+
+#u1236-4
+{
+	z-index: 60;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1234
+{
+	z-index: 58;
+	width: 0.01px;
+	position: relative;
+	margin-top: 39px;
+}
+
+#u1233,#u1234
+{
+	z-index: 0;
+	width: 577px;
+	background-color: #FFFFFF;
+	opacity: 0.71;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
+	filter: alpha(opacity=71);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu1235
+{
+	width: 0.01px;
+	position: relative;
+	left: 17px;
+	padding-top: 18px;
+	z-index: 2;
+	padding-bottom: 23px;
+}
+
+#u1235
+{
+	z-index: 59;
+	width: 139px;
+	height: 142px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/post-work-out-selfie-e1402384342215-ieu1235-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/post-work-out-selfie-e1402384342215.jpg") no-repeat left top;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#u1237-7
+{
+	z-index: 64;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 160px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
