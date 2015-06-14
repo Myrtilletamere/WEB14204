@@ -1,6 +1,6 @@
 
 #User Interview
-###Inteviewed: Elisa, 21, French, Student, around 25 hours of class/week, generql life budget around €400/month (rent not included)
+###Inteviewed: Elisa, 21, French, Student, around 25 hours of class/week, general life budget around €400/month (rent not included)
  
 ##Transcript:
 **Q: What are the social networks you use the most, what do you use them for, and why those specifically?**<br>
